@@ -39,12 +39,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/hanrry-dev/hanrry-dev/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">Oioi mundo, me chamo Hanrry Ravel mais conhecido como hanrry, sou DEV JAVA e aprendiz de outras linguagens, Estudante de Ciência da Computação na UNIT-SE</p>
 
 ###
