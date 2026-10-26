@@ -7,13 +7,13 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" height="30" alt="html5 logo"  />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://logopng.com.br/logos/docker-27.png" height="30" alt="css3 logo"  />
+  <img src="https://logopng.com.br/logos/docker-27.png" height="30" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
-  <img src="https://logosmarcas.net/wp-content/uploads/2020/09/Linux-Logo.png" height="30" alt="react logo"  />
+  <img src="https://logosmarcas.net/wp-content/uploads/2020/09/Linux-Logo.png" height="30" alt="linucaoo logo"  />
   <img width="12" />
   <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
